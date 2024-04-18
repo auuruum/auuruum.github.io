@@ -231,7 +231,7 @@ links:
   #    # TIKTOK
   - Name: TikTok
     URL: https://www.tiktok.com
-    Username: auurrumm
+    Username: @auurrumm
     Color: '#FE2C55'
     Icon-Class: fab fa-tiktok
 
@@ -292,7 +292,7 @@ links:
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'Yes'
+footer: 'No'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
