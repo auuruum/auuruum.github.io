@@ -164,26 +164,26 @@ links:
     Icon-Class: fab fa-steam
 
   #   # DISCORD
-  # - Name: Discord
-  #   URL: 'https://discord.gg'
-  #   Username: 
-  #   Icon-Class: fab fa-discord
-  #   Color: '#5865F2'
-  #   Text_Color: '#ffffff'
+  - Name: Discord
+    URL: 'https://discord.gg'
+    Username: auuruum
+    Icon-Class: fab fa-discord
+    Color: '#5865F2'
+    Text_Color: '#ffffff'
 
     # PINTEREST
-  - Name: Pinterest
-    URL: https://pinterest.com
-    Username: 'harsh98trivedi'
-    Color: '#E60023'
-    Icon-Class: fab fa-pinterest
+  #- Name: Pinterest
+  #  URL: https://pinterest.com
+  #  Username: 'harsh98trivedi'
+  #  Color: '#E60023'
+  #  Icon-Class: fab fa-pinterest
 
     # BEHANCE
-  - Name: Behance
-    URL: https://www.behance.net
-    Username: harsh98trivedi
-    Color: '#1769ff'
-    Icon-Class: fab fa-behance
+  #- Name: Behance
+  #  URL: https://www.behance.net
+  #  Username: harsh98trivedi
+  #  Color: '#1769ff'
+  #  Icon-Class: fab fa-behance
 
   #   # DRIBBBLE
   # - Name: Dribbble
