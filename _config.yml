@@ -228,7 +228,7 @@ links:
   #  Color: '#00aff0'
   #  Text_Color: '#ffffff'
 
-  #    # TIKTOK
+    # TIKTOK
   - Name: TikTok
     URL: https://www.tiktok.com
     Username: @auurrumm
