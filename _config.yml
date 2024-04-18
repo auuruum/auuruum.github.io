@@ -279,6 +279,18 @@ links:
     Color: '#d94869'
     Text_Color: '#ffffff'
 
+  - Name: Funpay
+    URL: https://funpay.com/users/4129955/
+    Icon-Class: fas fa-link
+    Color: '#d94869'
+    Text_Color: '#ffffff'
+
+  - Name: Modrinth
+    URL: https://modrinth.com/user/aurum
+    Icon-Class: fas fa-link
+    Color: '#d94869'
+    Text_Color: '#ffffff'
+
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
 
