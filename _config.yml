@@ -18,16 +18,16 @@ links:
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
-    Username: harsh98trivedi
+    Username: aurimas.dovgialo
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
 
     # INSTAGRAM
-  - Name: Instagram
-    URL: https://www.instagram.com
-    Username: harsh98trivedi
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
+  #- Name: Instagram
+  #  URL: https://www.instagram.com
+  #  Username: auuruum
+  #  Color: '#DD2A7B'
+  #  Icon-Class: fab fa-instagram
 
     # TWITTER
   - Name: Twitter
