@@ -1,11 +1,11 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Harsh Trivedi
+name: Aurimas Dovgialo
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: Hey! I am Aurimas Dovgialo a coder from Vilnius, passionate about Python, C++, and Arduino projects. Also i love volleyball so much.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/harsh98trivedi.png
+Image_URL: https://github.com/auuruum.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://picsum.photos/1080?nocache=
@@ -18,74 +18,74 @@ links:
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
-    Username: harsh98trivedi
+    Username: aurimas.dovgialo
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: harsh98trivedi
+    Username: auuruum
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
     # TWITTER
-  - Name: Twitter
-    URL: https://twitter.com
-    Username: harsh98trivedi
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
+  #- Name: Twitter
+  #  URL: https://twitter.com
+  #  Username: harsh98trivedi
+  #  Color: '#1DA1F2'
+  #  Icon-Class: fab fa-twitter
 
      # THREADS.NET
-  - Name: Threads
-    URL: https://threads.net/
-    Username: harsh98trivedi
-    Color: '#000000'
-    Icon-Class: fa-brands fa-threads
-    Text_Color: '#ffffff'
+  #- Name: Threads
+  #  URL: https://threads.net/
+  #  Username: harsh98trivedi
+  #  Color: '#000000'
+  #  Icon-Class: fa-brands fa-threads
+  #  Text_Color: '#ffffff'
 
     # CLUBHOUSE
-  - Name: Clubhouse
-    URL: https://www.clubhouse.com
-    Username: '@harsh98trivedi'
-    Color: '#f1c40f'
-    Icon-Class: fas fa-hand-paper -mt-0.5
+  #- Name: Clubhouse
+  #  URL: https://www.clubhouse.com
+  #  Username: '@harsh98trivedi'
+  #  Color: '#f1c40f'
+  #  Icon-Class: fas fa-hand-paper -mt-0.5
     
     # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: harsh98trivedi
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
+  #- Name: LinkedIn
+  #  URL: https://www.linkedin.com/in
+  #  Username: harsh98trivedi
+  #  Color: '#2867B2'
+  #  Icon-Class: fab fa-linkedin-in
 
     # YOUTUBE
   - Name: YouTube
     URL: https://www.youtube.com/channel
-    Username: UCS3zvA_2r1iGT7MB3NVCGAw
+    Username: UCmv9zSt6sFHFvs9IROh-nzA
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
     # GITHUB
   - Name: GitHub
     URL: http://github.com
-    Username: harsh98trivedi
+    Username: auuruum
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
     # WordPress
-  - Name: WordPress.org
-    URL: 'https://profiles.wordpress.org'
-    Username: harsh98trivedi
-    Icon-Class: fa-brands fa-wordpress-simple
-    Color: '#0073AA'
-    Text_Color: '#ffffff'
+  #- Name: WordPress.org
+  #  URL: 'https://profiles.wordpress.org'
+  #  Username: harsh98trivedi
+  #  Icon-Class: fa-brands fa-wordpress-simple
+  #  Color: '#0073AA'
+  #  Text_Color: '#ffffff'
 
     # EMAIL
-  - Name: Email
-    URL: 'mailto:harshtrivedi@duck.com'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
+  #- Name: Email
+  #  URL: 'mailto:harshtrivedi@duck.com'
+  #  Icon-Class: fas fa-envelope
+  #  Color: '#e17055'
+  #  Text_Color: '#ffffff'
 
   #   # Drupal
   # - Name: Drupal
@@ -280,7 +280,7 @@ links:
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'Yes'
+footer: 'No'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
