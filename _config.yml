@@ -273,6 +273,12 @@ links:
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
+  - Name: Ko-fi
+    URL: https://ko-fi.com/auuruum
+    Icon-Class: fas fa-link
+    Color: '#ffb142'
+    Text_Color: '#ffffff'
+
   - Name: Funpay
     URL: https://funpay.com/users/4129955/
     Icon-Class: fas fa-link
