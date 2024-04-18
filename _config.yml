@@ -158,7 +158,7 @@ links:
     # STEAM
   - Name: Steam
     URL: https://steamcommunity.com/id
-    Username: 'harshtrivedi'
+    Username: 'auuruum'
     Color: '#66c0f4'
     Text_Color: '#000000'
     Icon-Class: fab fa-steam
@@ -172,18 +172,18 @@ links:
   #   Text_Color: '#ffffff'
 
     # PINTEREST
-  - Name: Pinterest
-    URL: https://pinterest.com
-    Username: 'harsh98trivedi'
-    Color: '#E60023'
-    Icon-Class: fab fa-pinterest
+  # - Name: Pinterest
+  #  URL: https://pinterest.com
+  #  Username: 'harsh98trivedi'
+  #  Color: '#E60023'
+  #  Icon-Class: fab fa-pinterest
 
     # BEHANCE
-  - Name: Behance
-    URL: https://www.behance.net
-    Username: harsh98trivedi
-    Color: '#1769ff'
-    Icon-Class: fab fa-behance
+  # - Name: Behance
+  #  URL: https://www.behance.net
+  #  Username: harsh98trivedi
+  #  Color: '#1769ff'
+  #  Icon-Class: fab fa-behance
 
   #   # DRIBBBLE
   # - Name: Dribbble
@@ -193,20 +193,20 @@ links:
   #   Icon-Class: fab fa-dribbble
 
     # DEVIANTART
-  - Name: DeviantArt
-    URL: https://www.deviantart.com
-    Username: harshtrivedi
-    Icon-Class: fab fa-deviantart
-    Color: '#05CC46'
-    Text_Color: '#ffffff'
+  # - Name: DeviantArt
+  #  URL: https://www.deviantart.com
+  #  Username: harshtrivedi
+  #  Icon-Class: fab fa-deviantart
+  #  Color: '#05CC46'
+  #  Text_Color: '#ffffff'
 
     # FIGMA
-  - Name: Figma
-    URL: https://www.figma.com
-    Username: '@harshtrivedi'
-    Icon-Class: fab fa-figma
-    Color: '#ff2865'
-    Text_Color: '#ffffff'
+  # - Name: Figma
+  #  URL: https://www.figma.com
+  #  Username: '@harshtrivedi'
+  #  Icon-Class: fab fa-figma
+  #  Color: '#ff2865'
+  #  Text_Color: '#ffffff'
 
     # SPOTIFY
   - Name: Spotify
