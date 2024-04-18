@@ -211,29 +211,29 @@ links:
     # SPOTIFY
   - Name: Spotify
     URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy3x5da
+    Username: 31el7y7mngdmpy6g3ihnwowojoke
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
 
     # SOUNDCLOUD
-  - Name: SoundCloud
-    URL: https://www.soundcloud.com
-    Username: harsh98trivedi
-    Color: '#FE5000'
-    Icon-Class: fab fa-soundcloud
+  # - Name: SoundCloud
+  #  URL: https://www.soundcloud.com
+  #  Username: harsh98trivedi
+  #  Color: '#FE5000'
+  #  Icon-Class: fab fa-soundcloud
 
-  - Name: Skype
-    URL: https://join.skype.com/invite/e6vMrfsYKn9e
-    Icon-Class: fa-brands fa-skype
-    Color: '#00aff0'
-    Text_Color: '#ffffff'
+  # - Name: Skype
+  #  URL: https://join.skype.com/invite/e6vMrfsYKn9e
+  #  Icon-Class: fa-brands fa-skype
+  #  Color: '#00aff0'
+  #  Text_Color: '#ffffff'
 
   #    # TIKTOK
-  # - Name: TikTok
-  #   URL: https://www.tiktok.com
-  #   Username: 
-  #   Color: '#FE2C55'
-  #   Icon-Class: fab fa-tiktok
+  - Name: TikTok
+    URL: https://www.tiktok.com
+    Username: auurrumm
+    Color: '#FE2C55'
+    Icon-Class: fab fa-tiktok
 
     # MEDIUM
   - Name: Medium
