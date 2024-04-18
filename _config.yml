@@ -267,14 +267,20 @@ links:
   #  Text_Color: '#000000'
 
     # CUSTOM LINK
-  - Name: Blog
-    URL: https://harsh98trivedi.github.io/blog
+  - Name: CS2 server
+    URL: http://78.31.184.77/
     Icon-Class: fas fa-link
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
-  - Name: Links
-    URL: https://github.com/harsh98trivedi/links
+  - Name: Funpay
+    URL: https://funpay.com/users/4129955/
+    Icon-Class: fas fa-link
+    Color: '#d94869'
+    Text_Color: '#ffffff'
+
+  - Name: Modrinth
+    URL: https://modrinth.com/user/aurum
     Icon-Class: fas fa-link
     Color: '#d94869'
     Text_Color: '#ffffff'
