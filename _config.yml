@@ -112,19 +112,19 @@ links:
   #  Text_Color: '#ffffff'
 
     # MESSENGER
-  - Name: Messenger
-    URL: https://m.me
-    Username: theharshtrivedi
-    Color: '#006AFF'
-    Icon-Class: fab fa-facebook-messenger
+  # - Name: Messenger
+  #  URL: https://m.me
+  #  Username: theharshtrivedi
+  #  Color: '#006AFF'
+  #  Icon-Class: fab fa-facebook-messenger
 
     # Cal.com
-  - Name: Cal.com
-    URL: https://cal.com
-    Username: harshtrivedi
-    Color: '#888888'
-    Icon-Class: fa fa-calendar-check
-    Text_Color: '#ffffff'
+  # - Name: Cal.com
+  #  URL: https://cal.com
+  #  Username: harshtrivedi
+  #  Color: '#888888'
+  #  Icon-Class: fa fa-calendar-check
+  #  Text_Color: '#ffffff'
 
     # REDDIT
   - Name: Reddit
