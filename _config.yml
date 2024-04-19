@@ -291,6 +291,13 @@ links:
     Color: '#d94869'
     Text_Color: '#ffffff'
 
+  - Name: Trade-link
+    URL: https://steamcommunity.com/tradeoffer/new/?partner=1022404092&token=AmEP_8dw
+    Icon-Class: fas fa-link
+    Color: '#d94869'
+    Text_Color: '#ffffff'
+    
+
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
 
