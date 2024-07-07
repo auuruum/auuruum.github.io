@@ -296,6 +296,12 @@ links:
     Icon-Class: fas fa-link
     Color: '#d94869'
     Text_Color: '#ffffff'
+
+  - Name: CurseForge
+    URL: https://www.curseforge.com/members/auuruum/projects
+    Icon-Class: fas fa-link
+    Color: '#d94869'
+    Text_Color: '#ffffff'
     
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
