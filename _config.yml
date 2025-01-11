@@ -267,12 +267,6 @@ links:
   #  Text_Color: '#000000'
 
     # CUSTOM LINK
-  - Name: CS2 server
-    URL: http://78.31.184.77/
-    Icon-Class: fas fa-link
-    Color: '#ffb142'
-    Text_Color: '#ffffff'
-
   - Name: Ko-fi
     URL: https://ko-fi.com/auuruum
     Icon-Class: fas fa-link
