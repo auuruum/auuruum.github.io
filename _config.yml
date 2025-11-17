@@ -295,8 +295,13 @@ links:
     URL: https://www.curseforge.com/members/auuruum/projects
     Icon-Class: fas fa-link
     Color: '#d94869'
+    Text_Color: '#ffffff' 
+
+  - Name: Faceit
+    URL: https://www.faceit.com/ru/players/aurimas42
+    Icon-Class: fas fa-crosshairs
+    Color: '#ff5500'
     Text_Color: '#ffffff'
-    
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
