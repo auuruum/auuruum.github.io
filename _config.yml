@@ -1,9 +1,6 @@
 # YOUR NAME OR TITLE OF YOUR SITE
 name: Aurimas Dovgialo
 
-include:
-  - .well-known
-
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: Hey! I am Aurimas Dovgialo a coder from Lithuania, passionate about Python, C++, and Arduino projects. Also I love volleyball so much.
 
