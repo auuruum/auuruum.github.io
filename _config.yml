@@ -306,7 +306,7 @@ links:
   - Name: Setup
     URL: https://auuruum.github.io/setup
     Icon-Class: fas fa-desktop
-    Color: '#ff5500'
+    Color: '#00BFFF'
     Text_Color: '#ffffff'    
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
