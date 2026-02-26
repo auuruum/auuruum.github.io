@@ -303,6 +303,12 @@ links:
     Color: '#ff5500'
     Text_Color: '#ffffff'
 
+  - Name: Setup
+    URL: https://auuruum.github.io/setup
+    Icon-Class: fas fa-desktop
+    Color: '#ff5500'
+    Text_Color: '#ffffff'    
+
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
 footer: 'No'
 
