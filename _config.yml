@@ -269,7 +269,7 @@ links:
     # CUSTOM LINK
   - Name: Ko-fi
     URL: https://ko-fi.com/auuruum
-    Icon-Class: fas fa-link
+    Icon-Class: fas fa-ko-fi
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
