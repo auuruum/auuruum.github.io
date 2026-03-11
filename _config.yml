@@ -269,37 +269,38 @@ links:
     # CUSTOM LINK
   - Name: Ko-fi
     URL: https://ko-fi.com/auuruum
-    Icon-Class: fas fa-link
+    Icon-Class: fa-brands fa-ko-fi
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
   - Name: Funpay
     URL: https://funpay.com/users/4129955/
-    Icon-Class: fas fa-link
-    Color: '#d94869'
+    Icon-Image: /assets/images/funpay.svg
+    Icon-Size: 1.25em
+    Color: '#2C83BD'
     Text_Color: '#ffffff'
 
   - Name: Modrinth
     URL: https://modrinth.com/user/aurum
-    Icon-Class: fas fa-link
-    Color: '#d94869'
+    Icon-Image: https://cdn.simpleicons.org/modrinth/ffffff
+    Color: '#1bd96a'
     Text_Color: '#ffffff'
 
   - Name: Trade-link
     URL: https://steamcommunity.com/tradeoffer/new/?partner=1022404092&token=AmEP_8dw
-    Icon-Class: fas fa-link
+    Icon-Class: fab fa-steam
     Color: '#d94869'
     Text_Color: '#ffffff'
 
   - Name: CurseForge
     URL: https://www.curseforge.com/members/auuruum/projects
-    Icon-Class: fas fa-link
-    Color: '#d94869'
+    Icon-Image: https://cdn.simpleicons.org/curseforge/ffffff
+    Color: '#E96547'
     Text_Color: '#ffffff' 
 
   - Name: Faceit
     URL: https://www.faceit.com/ru/players/aurimas42
-    Icon-Class: fas fa-crosshairs
+    Icon-Image: https://cdn.simpleicons.org/faceit/ffffff
     Color: '#ff5500'
     Text_Color: '#ffffff'
 
