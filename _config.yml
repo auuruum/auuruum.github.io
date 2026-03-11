@@ -275,7 +275,8 @@ links:
 
   - Name: Funpay
     URL: https://funpay.com/users/4129955/
-    Icon-Class: fas fa-link
+    Icon-Image: /assets/images/funpay.svg
+    Icon-Size: 1.25em
     Color: '#2C83BD'
     Text_Color: '#ffffff'
 
