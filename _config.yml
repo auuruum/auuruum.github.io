@@ -296,7 +296,7 @@ links:
     URL: https://www.curseforge.com/members/auuruum/projects
     Icon-Image: https://cdn.simpleicons.org/curseforge/ffffff
     Color: '#E96547'
-    Text_Color: '#ffffff' 
+    Text_Color: '#ffffff'
 
   - Name: Faceit
     URL: https://www.faceit.com/ru/players/auurruum
@@ -332,6 +332,10 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - Icon
+
+# Include
+include:
+  - .well-known
 
 # Base URL
 # baseurl: /links
