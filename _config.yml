@@ -1,6 +1,11 @@
 # YOUR NAME OR TITLE OF YOUR SITE
 name: Aurimas Dovgialo
 
+# YOUTUBE API KEY (optional) - shows live subscriber count on the YouTube button
+# Get a free key at https://console.cloud.google.com/ (YouTube Data API v3)
+# Restrict the key to your domain (HTTP referrer) for safety
+youtube_api_key: ''
+
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: Hey! I am Aurimas Dovgialo a coder from Lithuania, passionate about Python, C++, and Arduino projects. Also I love volleyball so much.
 
@@ -64,6 +69,7 @@ links:
     Username: UCmv9zSt6sFHFvs9IROh-nzA
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
+    # Follower_Count: '1.2K subscribers'  # shown if youtube_api_key is not set
 
     # GITHUB
   - Name: GitHub
@@ -102,6 +108,7 @@ links:
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
     Text_Color: '#ffffff'
+    # Follower_Count: '500 followers'  # no public API; update manually
 
     # VIMEO
   #- Name: Vimeo
@@ -234,6 +241,7 @@ links:
     Username: '@auurrumm'
     Color: '#FE2C55'
     Icon-Class: fab fa-tiktok
+    # Follower_Count: '500 followers'  # no public API; update manually
 
     # MEDIUM
   #- Name: Medium
