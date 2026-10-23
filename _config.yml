@@ -305,13 +305,14 @@ links:
     Text_Color: '#ffffff'
 
   - Name: Setup
-    URL: https://auuruum.github.io/setup
+    # Local pages use paths so they follow the domain configured in CNAME.
+    URL: /setup
     Icon-Class: fas fa-desktop
     Color: '#00BFFF'
     Text_Color: '#ffffff'
 
   - Name: Portfolio
-    URL: https://auuruum.github.io/portfolio
+    URL: /portfolio
     Icon-Class: fas fa-laptop-code
     Color: '#00d4ff'
     Text_Color: '#ffffff'

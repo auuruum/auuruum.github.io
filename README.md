@@ -2,6 +2,12 @@
 
 A Beautiful Jekyll Theme For Links
 
+## Domain and internal links
+
+The custom domain is set in `CNAME`. When changing it, update that file and the GitHub Pages custom domain and DNS settings. Keep `CNAME` as one plain hostname, without a scheme or path.
+
+In `_config.yml`, use paths such as `/setup` and `/portfolio` for pages on this site, and full URLs for external services. The link template applies Jekyll's `relative_url` filter, so internal links follow the current domain and respect `baseurl` for local previews or subpath hosting.
+
 ![Links](https://raw.githubusercontent.com/harsh98trivedi/links/master/assets/images/links.jpg)
 
 ### Screenshot
