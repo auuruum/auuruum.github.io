@@ -305,13 +305,13 @@ links:
     Text_Color: '#ffffff'
 
   - Name: Setup
-    URL: https://auuruum.github.io/setup
+    Path: /setup
     Icon-Class: fas fa-desktop
     Color: '#00BFFF'
     Text_Color: '#ffffff'
 
   - Name: Portfolio
-    URL: https://auuruum.github.io/portfolio
+    Path: /portfolio
     Icon-Class: fas fa-laptop-code
     Color: '#00d4ff'
     Text_Color: '#ffffff'
@@ -345,6 +345,7 @@ include:
 
 # Base URL
 # baseurl: /links
+site_domain: https://auuruum.dev
 
 # Default Markdown Engine
 markdown: kramdown
